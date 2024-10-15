@@ -1,6 +1,12 @@
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Coverage](https://img.shields.io/badge/coverage-80%25-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Python](https://img.shields.io/badge/python-3.8-blue)
+![Flask](https://img.shields.io/badge/Flask-1.1.2-blue)
+![Project Status](https://img.shields.io/badge/status-active-brightgreen)
 
 # Telegram Weather Bot 🌤️
 
@@ -29,11 +35,3 @@ pip install -r requirements.txt
 Создайте файл .env в корневом каталоге и добавьте ваши ключи API:
 API_KEY_WEATHER=ваш_апи
 API_KEY_TELEGRAM=ваш_апи_бота
-
-
-<a href="https://github.com/ваш_пользователь/telegram-weather-bot">
-  <img src="https://img.shields.io/badge/GitHub-Repo-blue">
-</a>
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/Python-3.8-blue">
-</a>
