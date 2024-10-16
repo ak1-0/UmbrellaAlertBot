@@ -4,9 +4,8 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Coverage](https://img.shields.io/badge/coverage-80%25-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Python](https://img.shields.io/badge/python-3.8-blue)
-![Flask](https://img.shields.io/badge/Flask-1.1.2-blue)
 ![Project Status](https://img.shields.io/badge/status-active-brightgreen)
+![Work In Progress](https://img.shields.io/badge/Work%20In%20Progress-orange?style=flat-square)
 
 # Telegram Weather Bot 🌤️
 
