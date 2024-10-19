@@ -27,7 +27,7 @@
 ## Установка и запуск бота
 1. **Клонируйте репозиторий на свой компьютер**:
     ```bash
-    git clone https://github.com/ak1-0taski-docker/telegram-weather-bot.git
+    git clone https://github.com/ak1-0/telegram-weather-bot.git
     cd telegram-weather-bot
     ```
 
